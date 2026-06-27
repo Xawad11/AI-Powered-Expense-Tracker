@@ -91,7 +91,7 @@ npm run migrate
 
 ```bash
 npm run seed
-# Demo login: alex@timetoprogram.com / Test@1234
+# Demo login: jawad@example.com / jawad@1234
 ```
 
 Start the server:
