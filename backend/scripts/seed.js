@@ -4,9 +4,9 @@ import { defaultCategories } from '../utils/defaultCategories.js';
 
 // Demo user and budgets data
 const DEMO_USER = {
-  name: 'Alex',
-  email: 'alex@timetoprogram.com',
-  password: 'Test@1234',
+  name: 'Jawad',
+  email: 'jawad@example.com',
+  password: 'jawad@1234',
   currency: 'USD',
 };
 
